@@ -106,8 +106,8 @@ main
     margin: auto;
     background-color: white;
     border-radius: 8px;
-    box-shadoW: 0px 0px 8PX 1px #1d233d7a
-
+    box-shadoW: 0px 0px 8PX 1px #1d233d7a;
+    padding-bottom: 5px;
 }
 
 main > article > p 
@@ -273,6 +273,7 @@ footer
     text-align: center;
     padding: 2px;
     font-size: 5px;
+    margin-top: 22px;
 }
 
 #asideautorsite
